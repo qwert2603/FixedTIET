@@ -2,9 +2,10 @@ package com.qwert2603.fixed_tiet;
 
 import android.content.Context;
 import android.os.Build;
-import android.support.design.widget.TextInputAutoCompleteTextView;
 import android.util.AttributeSet;
 import android.widget.TextView;
+
+import com.google.android.material.textfield.TextInputAutoCompleteTextView;
 
 import java.lang.reflect.Field;
 
